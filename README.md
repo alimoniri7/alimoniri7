@@ -2,54 +2,62 @@
 
 # Ali Moniri
 
-Full Stack JavaScript Developer
+Software Engineer crafting modern web & mobile experiences.
 
-Building high quality web and mobile applications with a focus on performance, clean architecture and developer experience.
+Building thoughtful software with TypeScript, React Native and a passion for clean architecture.
 
-<br>
-
-[LinkedIn](https://linkedin.com/in/alimoniri7) •
-[GitHub](https://github.com/alimoniri7)
+<p>
+<a href="https://github.com/alimoniri7">GitHub</a> ·
+<a href="https://linkedin.com/in/alimoniri7">LinkedIn</a>
+</p>
 
 </div>
 
 ---
 
-### About
+## About
 
-I'm a Full Stack JavaScript developer focused on creating reliable software with modern technologies.
+I'm a software engineer focused on building products that feel fast, intuitive and reliable.
 
-Most of my recent work revolves around React Native, Expo and the TypeScript ecosystem. I enjoy building products that are fast, maintainable and pleasant to use.
+I enjoy transforming ideas into polished applications, paying close attention to architecture, developer experience and the small details that make software enjoyable to use.
 
 ---
 
-### Stack
+## Things I enjoy working with
 
 **Mobile**
 
-React Native • Expo • NativeWind • Drizzle ORM
+React Native · Expo · NativeWind · Drizzle ORM
 
 **Frontend**
 
-React • Next.js • TypeScript • Tailwind CSS
+React · Next.js · TypeScript · Tailwind CSS
 
-React Hook Form • TanStack Query • Zod
+React Hook Form · TanStack Query · Zod
 
 **Backend**
 
-Node.js • Express.js
+Node.js · Express.js
 
 **Database**
 
-SQLite • MongoDB • SQL • Drizzle ORM
+SQLite · MongoDB · SQL · Drizzle ORM
 
 **DevOps**
 
-Docker • Linux • Nginx
+Docker · Linux · Nginx
 
 ---
 
-### GitHub
+## Currently
+
+- Building cross-platform apps with React Native
+- Learning better software architecture
+- Exploring modern tooling and developer workflows
+
+---
+
+## GitHub
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=alimoniri7&show_icons=true&hide_border=true&theme=transparent"/>
@@ -58,16 +66,15 @@ Docker • Linux • Nginx
 
 ---
 
-### Philosophy
+## Philosophy
 
-> Simplicity is not the absence of complexity.
->
-> It is the result of understanding it.
+> Great software isn't just built to work.  
+> It's built to be understood, maintained, and enjoyed.
 
 ---
 
 <div align="center">
 
-Thanks for stopping by.
+*"Details create the experience."*
 
 </div>
