@@ -65,7 +65,7 @@ My main focus is creating products that feel fast, intuitive and maintainable. I
 ## Current Focus
 
 - Building cross-platform mobile applications
-- Writing clean and maintainable TypeScript
+- Writing clean and maintainable JavaScript
 - Exploring software architecture and system design
 - Improving developer experience through better tooling
 
