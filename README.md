@@ -1,47 +1,135 @@
+<div align="center">
 
-<h3 align="center">Hi there 👋<h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:8b5cf6&text=Ali%20Moniri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# 💫 About Me
-This is Ali Moniri, a Frontend developer from Iran / Tehran 📍<br>Proficient in React library to create web applications like single web applications(SPA), E-commerce websites and etc. develope web pages with responsive design rules and the ability to work with many different packages. <br>👯 I’m looking to collaborate on React projects.<br>🌱 I’m currently learning **Next JS**.<br>💬 Ask me about any thing you want, I'II be happy to help you😉.<br>⚡ I love programming and I am always eager to learn new technologies.
+# 👋 Hi, I'm Ali
 
-<br/>
+### 📱 Full Stack JavaScript Developer • React Native Developer
 
-# 💻 Tech Stack
-<p align="center">
-:fire: <b>HTML - CSS - JS - Git & GitHub :fire:<br/>:fire: React - Redux - GraphQL - Apollo client :fire:<br/>:fire: Material Ui - Sass - BootStrap - Visual Statio Code :fire:</b>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,react,redux,graphql,apollo,materialui,sass,bootstrap,vscode&perline=4" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=React+Native+Developer;Expo+%7C+Next.js+%7C+Node.js;TypeScript+Enthusiast;Building+Modern+Apps+🚀"/>
 
-<br/>
+![](https://komarev.com/ghpvc/?username=alimoniri7&style=for-the-badge&color=0ea5e9)
 
-# 🌐 Socials
-<a href="https://t.me/alimoniri_dev" >
-<img width="25px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" /> : alimoniri_dev
-</a>
-<br/><br/>
-<a href="https://www.instagram.com/alimoniri7" >
-<img width="25px" src="https://skillicons.dev/icons?i=instagram" /> : alimoniri7
-</a>
-<br/><br/>
-<a href="https://linkedin.com/in/alimoniri7" >
-<img width="25px" src="https://skillicons.dev/icons?i=linkedin" /> : alimoniri7
-</a>
-
-<br/>
-<br/>
-
-# 📊 GitHub Stats:
-<div align="center" >
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=alimoniri7&theme=dark&border_radius=5&mode=daily&sideLabels=DD6F00&background=000000)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alimoniri7&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimoniri7&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alimoniri7&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
 
+- 📱 React Native & Expo Developer
+- ⚡ Full Stack JavaScript / TypeScript
+- 💙 Passionate about clean architecture & performance
+- 🌱 Always learning modern technologies
+- 🎯 Currently focused on Mobile Development
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts&theme=dark"/>
+</p>
+
+`React Native` • `Expo` • `NativeWind` • `Drizzle ORM`
+
+### Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind&theme=dark"/>
+</p>
+
+`React Hook Form` • `TanStack Query` • `Zod`
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,mongodb&theme=dark"/>
+</p>
+
+SQLite • Drizzle ORM • SQL *(Basic)* • MongoDB *(Intermediate)*
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,vscode&theme=dark"/>
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alimoniri7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimoniri7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=alimoniri7&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alimoniri7&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alimoniri7&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/alimoniri7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/alimoniri7">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Dev Quote
+
+> *"First, solve the problem. Then, write the code."*
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+> Enable the GitHub Action below and this image will become animated.
+
+![](https://raw.githubusercontent.com/alimoniri7/alimoniri7/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,100:8b5cf6"/>
+
+</div>
