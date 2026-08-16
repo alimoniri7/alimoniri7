@@ -75,7 +75,6 @@ My main focus is creating products that feel fast, intuitive and maintainable. I
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=alimoniri7&theme=dark&hide_border=true&border_radius=30" alt="GitHub Streak" /></a>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimoniri7&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 <p align="center">
